@@ -1,0 +1,31 @@
+header {
+    margin-bottom: 40px;
+  }
+
+  header h1,
+  h4 {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  .container {
+    display: flex;
+    align-items: start;
+    gap: 40px;
+    max-width: 800px;
+    /* border: red solid; */
+    flex-wrap: nowrap;
+    align-items: stretch;
+  }
+
+  .col {
+    background-color: aqua;
+    min-width: 200px;
+    padding: 20px;
+    line-height: 1.5; 
+  }
+
+
+
+ 
+
